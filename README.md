@@ -6,9 +6,10 @@ This repository collects the main projects developed during my **M.Sc. in Aerona
 
 ## Areas of Focus
 
-- External and internal aerodynamics  
+- External aerodynamics  
 - Subsonic, transonic, and compressible flows  
-- Turbulence modeling (RANS and unsteady simulations)  
+- Turbulence modeling (RANS and unsteady simulations)
+- Transition modeling (LM and roughness-induced transition) 
 - Grid generation and mesh sensitivity analysis  
 - Numerical methods for fluid dynamics  
 - Post-processing and comparison with reference data  
@@ -30,8 +31,13 @@ Depending on the project, the following tools and languages are used:
 
 **Marco Schifone**  
 M.Sc. in Aeronautical Engineering  
-Politecnico di Milano
+Politecnico di Milano  
 
+Please feel free to reach out with questions, for discussions, or to explore potential collaborations.  
+Feel free to reach out to me by email or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-schifone-8906451b0/).
+
+- 📧 Email: marco.schifone@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/marco-schifone-8906451b0/
 ---
 
 ## Notes
